@@ -1,0 +1,51 @@
+StemPal Research License
+
+Copyright (c) 2026 Lehigh University education research team.
+All rights reserved.
+
+1. Scope
+
+This repository and the associated StemPal package, including but not limited to MathPal, StatPal, iCodePal, and HackPal, are provided solely for research, scholarship, evaluation, and nonprofit educational collaboration. StemPal itself is a nonprofit educational research product created by a Lehigh University education research team.
+
+2. Permitted Use
+
+Permission is granted to view, copy, and use the materials in this repository only for noncommercial research and review purposes, subject to all of the following conditions:
+
+- use must be connected to legitimate academic, educational, or institutional research activity;
+- use must remain noncommercial in nature;
+- use must comply with any applicable IRB, school, district, university, privacy, and student-data requirements;
+- use must not misrepresent affiliation with Lehigh University or the StemPal research team.
+
+3. Restrictions
+
+Without prior written permission from the copyright holder, you may not:
+
+- use the repository or any StemPal component for commercial purposes;
+- sell, sublicense, host as a paid service, or redistribute the software or derivative deployments;
+- use the materials for open public production rollout outside an approved research or pilot context;
+- remove copyright, attribution, research-use, or institutional notices;
+- imply endorsement by Lehigh University, participating schools, or the research team.
+
+4. Institutional Collaboration
+
+The StemPal package is intended for direct collaboration with schools, districts, educational institutions, and research partners that contact the team for supervised use or evaluation.
+
+5. IRB and Compliance
+
+StemPal has been developed within an IRB-reviewed research context, including review of its data practices and school collaboration model. Each collaborating institution remains responsible for obtaining any approvals, consents, permissions, and legal authority required for its own local use, testing, or evaluation activities.
+
+6. No Open-Source Grant
+
+This license does not grant any open-source rights. No patent license, trademark license, right to distribute derivative works, or right to provide the software as a public service is granted except as expressly stated above.
+
+7. Disclaimer
+
+The repository and all related materials are provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, noninfringement, accuracy, availability, or regulatory compliance.
+
+8. Limitation of Liability
+
+To the maximum extent permitted by law, the copyright holders, contributors, and affiliated institutions shall not be liable for any claim, damages, losses, or other liability arising from or related to the software, documentation, or use of the StemPal package.
+
+9. Contact
+
+For collaboration, licensing, or permission requests, contact: zip322@lehigh.edu
