@@ -1,4 +1,6 @@
-<img src="longlong.png" alt="StemPal logo" style="zoom:20%;" />
+<p align="center">
+  <img src="longlong.png" alt="StemPal logo" width="180" />
+</p>
 
 # StemPal Documentation
 
