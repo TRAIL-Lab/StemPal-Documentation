@@ -43,7 +43,7 @@ StemPal is designed for educational research, guided classroom pilots, and nonpr
 StemPal is not released as a general-purpose commercial product.
 
 - The StemPal package and its extensions are provided for research and scholarly use only.
-- StemPal is part of a research effort whose data practices and school collaboration model have been reviewed through Lehigh University IRB.
+- StemPal is part of a research effort whose data practices and school collaboration model have been reviewed through Institutional Review Board (IRB).
 - StemPal is a nonprofit educational research product developed for supervised educational use and institutional collaboration.
 - Access is provided through direct collaboration with schools, educational institutions, and research partners who contact the team directly.
 - Commercial deployment, resale, sublicensing, or unsupervised redistribution is not authorized.
@@ -51,7 +51,7 @@ StemPal is not released as a general-purpose commercial product.
 
 ## Team 🎓
 
-StemPal is developed by a Lehigh University education research team focused on AI-supported teaching and learning tools for authentic classroom settings.
+StemPal is developed by a group of educational researcher and educators focused on AI-supported teaching and learning practices for authentic classroom settings.
 
 ## Collaboration 🤝
 
